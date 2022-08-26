@@ -1,0 +1,1 @@
+Projeto utilizando Python, Pandas, Seaborn, Matplotlib e Numpy para verificar o comportamento dos preços das ações da bolsa de valores 
